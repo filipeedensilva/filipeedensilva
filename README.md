@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![feden-pe's 42 stats](https://badge42.vercel.app/api/v2/clhdy6b9f001108mnhhwshuiw/stats?cursusId=21&coalitionId=290)](https://github.com/JaeSeoKim/badge42)
 
 ### Libft [![feden-pe's 42 Libft Score](https://badge42.vercel.app/api/v2/clhdy6b9f001108mnhhwshuiw/project/3061073)](https://github.com/JaeSeoKim/badge42)
